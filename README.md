@@ -9,6 +9,7 @@ To execute the test suite, type "python my_tests.py".
 This will produce output from 3 failed tests. This is expected. Your job is to fix them.
 
 To accomplish this, you must complete the method definitions in the myFunctions.py class for:
+
 -myFirstFunction
 
 -reverseFunction
