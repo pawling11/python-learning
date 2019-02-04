@@ -10,7 +10,10 @@ This will produce output from 3 failed tests. This is expected. Your job is to f
 
 To accomplish this, you must complete the method definitions in the myFunctions.py class for:
 -myFirstFunction
+
 -reverseFunction
+
 -acronymOf
+
 
 You can also type "python myFunctions.py" to get an idea of how your methods are working. I have written the main method to invoke the tested functions.
